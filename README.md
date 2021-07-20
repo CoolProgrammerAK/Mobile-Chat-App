@@ -1,4 +1,4 @@
-# chatapp
+# Chatapp using firebase
 
 A new Flutter project.
 
